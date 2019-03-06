@@ -14,7 +14,6 @@ public class loopFlavaours {
 
         useForLoop(flavours);
     }
-
     private static void useWhileLoop(Collection<String> aFlavours) {
         Iterator<String> flavoursIter = aFlavours.iterator();
         while (flavoursIter.hasNext()){
