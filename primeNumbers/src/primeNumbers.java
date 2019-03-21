@@ -15,8 +15,7 @@ public class primeNumbers {
         }
 
     }
-
-    private static boolean isPrime(int number){
+ private static boolean isPrime(int number){
         if (number != 2) {
             for (int i = number - 1; i > 1; i--) {
 
@@ -29,7 +28,6 @@ public class primeNumbers {
             return false;
         }
 
-
-        return true;
+     return true;
     }
 }
