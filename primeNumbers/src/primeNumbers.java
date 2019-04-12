@@ -10,8 +10,6 @@ public class primeNumbers {
             if (isPrime(value) && value != 0 && value != 1) {
                 System.out.println("True ---> " + value);
             }
-
-
         }
 
     }
