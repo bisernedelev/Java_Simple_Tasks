@@ -16,7 +16,6 @@ public class JDBCsample {
                         rs.getInt("id"), rs.getString("name"),
                         //  rs.getString("type")
                         rs.getInt("age"));
-
             }
 
         } catch (SQLException e) {
