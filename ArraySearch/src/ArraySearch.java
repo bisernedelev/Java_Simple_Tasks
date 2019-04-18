@@ -56,8 +56,6 @@ public class ArraySearch {
             }
         }
 
-
-
         if (array.length>3){
 
             for (int h = 0; h <result2.length-1 ; h++) {
