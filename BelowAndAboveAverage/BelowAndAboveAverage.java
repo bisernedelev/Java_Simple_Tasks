@@ -41,8 +41,7 @@ public class BelowAndAboveAverage {
 
 
 
-
-        if (array1.length>1&&array1.length>1) {
+if (array1.length>1&&array1.length>1) {
             for (int a = 0; a < array1.length - 1; a++) {
                 belowStr = belowStr.concat(array1[a] + ",");
                 belowStr1 = array1[a + 1];
