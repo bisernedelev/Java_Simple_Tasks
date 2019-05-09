@@ -28,8 +28,7 @@ public class ArraySearch {
             }
 
         }
-
-        for (int z = 0; z < result.length; z++) {
+  for (int z = 0; z < result.length; z++) {
             if (result[z] != 0) {
                 idx++;
             }}
