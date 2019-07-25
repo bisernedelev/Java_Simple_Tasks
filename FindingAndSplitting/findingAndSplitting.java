@@ -22,7 +22,6 @@ public class findingAndSplitting {
                 j++;
             }
 
-
             if(j - i > result.length()) {
                 result = str.substring(i, j);
             }
