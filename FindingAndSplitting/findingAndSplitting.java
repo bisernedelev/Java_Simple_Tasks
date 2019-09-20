@@ -1,6 +1,7 @@
 import java.io.ByteArrayInputStream;
 import java.util.Scanner;
 
+
 public class findingAndSplitting {
 
     static void testInput() {
