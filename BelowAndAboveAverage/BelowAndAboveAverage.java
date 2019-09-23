@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class BelowAndAboveAverage {
     public static void main(String[] args) {
       
-        
         NumberFormat formatter = new DecimalFormat("#0.00");
         Scanner sc = new Scanner(System.in);
         String line = sc.nextLine();
