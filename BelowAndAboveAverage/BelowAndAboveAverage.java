@@ -3,6 +3,7 @@ import java.text.NumberFormat;
 import java.util.Scanner;
 
 
+
 public class BelowAndAboveAverage {
     public static void main(String[] args) {
       
