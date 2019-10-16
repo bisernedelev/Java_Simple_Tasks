@@ -18,6 +18,7 @@ public class findingAndSplitting {
         String str =sc.nextLine();
 
         String result="";
+        
 
         for (int i = 0; i < str.length(); i++) {
             int j = i;
