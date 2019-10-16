@@ -27,6 +27,7 @@ public class findingAndSplitting {
                 result = str.substring(i, j);
             }
         }
+        
         System.out.println(result);
     }
 
