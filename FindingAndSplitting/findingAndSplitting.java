@@ -9,6 +9,7 @@ public class findingAndSplitting {
 
         System.setIn(new ByteArrayInputStream(input.getBytes()));
     }
+    
     public static void main(String[] args) {
         testInput();
         Scanner sc = new Scanner(System.in);
