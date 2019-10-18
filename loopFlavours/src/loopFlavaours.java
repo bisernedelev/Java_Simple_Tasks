@@ -21,6 +21,7 @@ public class loopFlavaours {
         }
     }
 //does not use an integer index
+    
     private static void useForLoop(Collection<String> aFlavours) {
         for (Iterator<String> flavoursIter = aFlavours.iterator(); flavoursIter.hasNext();){
             System.out.println(flavoursIter.next());
