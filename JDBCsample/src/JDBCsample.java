@@ -17,6 +17,7 @@ public class JDBCsample {
                         //  rs.getString("type")
                         rs.getInt("age"));
             }
+            
 
         } catch (SQLException e) {
             e.printStackTrace();
