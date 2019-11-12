@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class findingAndSplitting {
 
+    
     static void testInput() {
         String input = "hoopa";
 
