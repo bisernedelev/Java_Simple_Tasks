@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 public class findingAndSplitting {
 
-    
-    static void testInput() {
+        static void testInput() {
         String input = "hoopa";
 
         System.setIn(new ByteArrayInputStream(input.getBytes()));
