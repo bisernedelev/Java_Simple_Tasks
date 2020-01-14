@@ -13,7 +13,8 @@ public class JDBCsample {
             while (rs.next()) {
 
                 System.out.printf("%d %s %d%n",
-                        rs.getInt("id"), rs.getString("name"),
+                
+                rs.getInt("id"), rs.getString("name"),
                         //  rs.getString("type")
                         rs.getInt("age"));
             }
