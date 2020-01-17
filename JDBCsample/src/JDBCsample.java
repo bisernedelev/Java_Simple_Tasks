@@ -5,6 +5,7 @@ public class JDBCsample {
         String url = "jdbc:mysql://127.0.0.1:3306/trymimi";
         String user = "root";
         String password = "18991948";
+        
 
         try (Connection conn = DriverManager.getConnection(url, user, password);
              Statement stmt = conn.createStatement();
